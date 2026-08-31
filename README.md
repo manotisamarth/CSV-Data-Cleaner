@@ -29,10 +29,10 @@ streamlit run CSV Data Cleaner.py
 ## Project Structure
 
 CSV-Data-Cleaner/
-│
-├── CSV Data Cleaner.py
-├── README.md
-└── LICENSE
+
+* CSV Data Cleaner.py
+* README.md
+* LICENSE
 
 ## Result
 
